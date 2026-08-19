@@ -207,3 +207,9 @@ https://colab.research.google.com/drive/1-xI3PcTAW0aDvMGJ5_n4M92RkGibqGlu?usp=sh
 │   ├── catalog_clean.csv
 │   └── marketing_clean.csv
 └── README.md
+
+
+
+Author
+
+Data Analytics project focused on business performance, customer behavior, conversion analysis, retention, A/B testing, and business intelligence within the RappiPlus e-commerce ecosystem.
